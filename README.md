@@ -8,10 +8,12 @@ HERE ARE MY LEETCODE SOLUTIONS
 | ------- |
 | [0001-two-sum](https://github.com/singhsamarth50419-cmd/LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/singhsamarth50419-cmd/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0540-single-element-in-a-sorted-array](https://github.com/singhsamarth50419-cmd/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/singhsamarth50419-cmd/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/singhsamarth50419-cmd/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/singhsamarth50419-cmd/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
