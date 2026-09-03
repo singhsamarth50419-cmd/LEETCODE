@@ -9,7 +9,7 @@ public:
             if(arr[mid-1] < arr[mid] && arr[mid] > arr[mid+1]){
                 return mid;
             }
-            else if(arr[mid+1] < arr[mid]){
+             if(arr[mid+1] < arr[mid]){
                 end = mid - 1;
             }
             else{
