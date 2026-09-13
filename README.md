@@ -66,4 +66,12 @@ HERE ARE MY LEETCODE SOLUTIONS
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/singhsamarth50419-cmd/LEETCODE/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/singhsamarth50419-cmd/LEETCODE/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/singhsamarth50419-cmd/LEETCODE/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
